@@ -1,4 +1,4 @@
 # stu-demo
 my first proper github repo
 <br>
-author - shabizaidi
+author -Syed Muhammad Shabi Zaidi
